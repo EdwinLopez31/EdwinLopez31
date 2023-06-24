@@ -1,6 +1,6 @@
 ###
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=EdwinLopez31&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
-<h1 align="center">REACTJS DEVELOPER NEXT DOOR 😎</h1>
+<h1 align="center">YOUR FRIENDLY REACTJS DEVELOPER NEXT DOOR 😎</h1>
 
 
 ###
