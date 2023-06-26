@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=EdwinLopez31&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 <h2 align="center">YOUR FRIENDLY REACTJS DEVELOPER NEXT DOOR 😎</h2>
 
-<p>🤓 Currently trying to learn more about .NET Core <br/> 😇 Willing to help </br> ▶️ Doing Quiz Maker Project on the side </br> ✉️ <a href="https://www.linkedin.com/in/ednlopezjr/">Get in touch</a></p>
+<p>🤓 Currently trying to learn more about .NET Core <br/> 😇 Willing to help </br> ▶️ Doing Quiz Maker project on the side </br> ✉️ <a href="https://www.linkedin.com/in/ednlopezjr/">Get in touch</a></p>
 
 
 ###
