@@ -35,7 +35,7 @@ const myTechStack = {
 
 ###
   
-  <img src="https://streak-stats.demolab.com?user=EdwinLopez31&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+ <!-- <img src="https://streak-stats.demolab.com?user=EdwinLopez31&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
 </div>
 
 
